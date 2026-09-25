@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princekumar9234/LeetCode/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princekumar9234/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekumar9234/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princekumar9234/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekumar9234/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
