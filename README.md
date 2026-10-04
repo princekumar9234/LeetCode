@@ -12,12 +12,14 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princekumar9234/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekumar9234/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princekumar9234/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,12 +35,14 @@
 | ------- |
 | [0015-3sum](https://github.com/princekumar9234/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princekumar9234/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekumar9234/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -55,4 +59,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekumar9234/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
