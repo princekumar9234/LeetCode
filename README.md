@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/princekumar9234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/princekumar9234/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/princekumar9234/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
