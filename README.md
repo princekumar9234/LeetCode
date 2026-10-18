@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/princekumar9234/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/princekumar9234/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0904-fruit-into-baskets](https://github.com/princekumar9234/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princekumar9234/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/princekumar9234/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/princekumar9234/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/princekumar9234/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/princekumar9234/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
