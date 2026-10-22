@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/princekumar9234/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekumar9234/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princekumar9234/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -68,12 +69,14 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/princekumar9234/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekumar9234/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/princekumar9234/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/princekumar9234/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/princekumar9234/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekumar9234/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princekumar9234/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
