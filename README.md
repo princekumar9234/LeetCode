@@ -71,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/princekumar9234/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/princekumar9234/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/princekumar9234/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/princekumar9234/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/princekumar9234/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/princekumar9234/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princekumar9234/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
