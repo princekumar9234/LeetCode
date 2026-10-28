@@ -45,6 +45,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princekumar9234/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/princekumar9234/LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/princekumar9234/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekumar9234/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/princekumar9234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,4 +128,16 @@
 | [0209-minimum-size-subarray-sum](https://github.com/princekumar9234/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/princekumar9234/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/princekumar9234/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/princekumar9234/LeetCode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/princekumar9234/LeetCode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/princekumar9234/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
