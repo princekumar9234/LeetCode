@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/princekumar9234/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princekumar9234/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/princekumar9234/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/princekumar9234/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princekumar9234/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princekumar9234/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/princekumar9234/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/princekumar9234/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/princekumar9234/LeetCode/tree/master/0268-missing-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/princekumar9234/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princekumar9234/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
